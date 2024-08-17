@@ -1,36 +1,35 @@
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; max-width: 800px; margin: auto; padding: 20px;">
+<div align="center">
+  <h1>Hi 👋, I'm Surajit</h1>
+  <h3>Learner | Developer | Explorer</h3>
 
-  <h1 align="center">Hi 👋, I'm Surajit</h1>
-  <h3 align="center">Learner | Developer | Explorer</h3>
-
-  <p align="center">
+  <p>
     <img src="https://komarev.com/ghpvc/?username=nextpointer&label=Profile%20views&color=0e75b6&style=flat" alt="nextpointer" />
   </p>
 
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
-    <a href="https://twitter.com/necstpointer" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="necstpointer" height="30" width="40" />
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://twitter.com/necstpointer" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="necstpointer" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/surajitmaity3112" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajitmaity3112" height="30" width="40" />
+    <a href="https://linkedin.com/in/surajitmaity3112" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajitmaity3112" height="30" width="40" />
     </a>
-    <a href="https://kaggle.com/lazy34" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lazy34" height="30" width="40" />
+    <a href="https://kaggle.com/lazy34" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lazy34" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/necstpointer" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="necstpointer" height="30" width="40" />
+    <a href="https://instagram.com/necstpointer" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="necstpointer" height="30" width="40" />
     </a>
-    <a href="https://www.leetcode.com/surajit3112" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajit3112" height="30" width="40" />
+    <a href="https://www.leetcode.com/surajit3112" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajit3112" height="30" width="40" />
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/lazycoder34" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lazycoder34" height="30" width="40" />
+    <a href="https://auth.geeksforgeeks.org/user/lazycoder34" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lazycoder34" height="30" width="40" />
     </a>
   </p>
 
-  <h3 align="center">Languages and Tools:</h3>
-  <p align="center">
+  <h3>Languages and Tools:</h3>
+  <p style="display: flex; flex-wrap: wrap; justify-content: center;">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
     </a>
@@ -94,15 +93,22 @@
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
     </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-    </a>
   </p>
 
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=nextpointer&show_icons=true&locale=en" alt="nextpointer" />
+  </p>
+
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nextpointer&" alt="nextpointer" />
+  </p>
 </div>
